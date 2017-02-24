@@ -1,0 +1,8 @@
+class Factura {
+	
+	long codigo;
+	Date fecha;
+	int valor;
+	String concepto;	
+
+}
