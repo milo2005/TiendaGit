@@ -2,6 +2,7 @@ class Factura {
 	
 	long codigo;
 	String cliente;
+	int iva;
 	Date fecha;
 	int valor;
 	String concepto;	
